@@ -1,0 +1,1914 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    min-width: 500px;
+    max-width: 1200px;
+}
+
+#Text_Right {
+    float: right;
+    font-size: 1.514793em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    letter-spacing: -0.016em;
+    text-decoration: none;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 5;
+    margin: 15% 8% 0px 0px;
+    clear: none;
+}
+
+#Text_Left {
+    float: left;
+    font-size: 1.514793em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    letter-spacing: -0.016em;
+    text-decoration: none;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 6;
+    margin: 15% 0px 0px 10%;
+    clear: both;
+}
+
+#Caption {
+    float: none;
+    font-size: 3.700051875em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(26, 188, 156);
+    font-style: normal;
+    letter-spacing: -0.016em;
+    text-decoration: none;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 31;
+    margin: 75px auto 0px;
+    clear: none;
+}
+
+#horizontal_rule {
+    float: none;
+    height: 1px;
+    width: 80%;
+    background-color: rgb(228, 232, 232);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 34;
+    margin: 20px auto 0px;
+    clear: none;
+}
+
+#facebook_ico {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 18;
+    margin: 25px auto 0px;
+    clear: none;
+}
+
+#intro_text {
+    float: none;
+    font-size: 1.125em;
+    width: 60%;
+    height: auto;
+    text-align: justify;
+    font-weight: normal;
+    line-height: 29px;
+    color: rgb(149, 165, 166);
+    font-style: normal;
+    letter-spacing: -0.016em;
+    text-decoration: none;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 86;
+    margin: 50px auto 0px;
+    clear: both;
+}
+
+#Form_2 {
+    float: none;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    border: 6px solid rgba(26, 188, 156, 0.592157);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 17;
+    margin: 0px auto;
+    clear: none;
+    display: block;
+}
+
+#dribbble_ico {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+    margin: 24px auto 0px;
+    clear: none;
+}
+
+#Finalize_text {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: justify;
+    font-weight: normal;
+    line-height: 1em;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 74;
+    margin: 10px auto 0px;
+    clear: none;
+}
+
+#textspan3 {
+    float: none;
+    font-size: 0.9375em;
+    line-height: 29px;
+    color: rgb(149, 165, 166);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: -0.016em;
+    text-decoration: none;
+}
+
+#textspan4 {
+    float: none;
+    font-size: 0.875em;
+    line-height: 29px;
+    color: rgb(149, 165, 166);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: -0.016em;
+    text-decoration: none;
+}
+
+#Headline_text {
+    float: none;
+    font-size: 2.25em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    line-height: normal;
+    color: rgb(26, 188, 156);
+    font-style: normal;
+    letter-spacing: -0.016em;
+    text-decoration: none;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 87;
+    margin: 120px auto 0px;
+    clear: none;
+}
+
+#Form_3 {
+    float: right;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    border: 6px solid rgba(26, 188, 156, 0.592157);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 9;
+    margin: -100px 0px 0px;
+    clear: both;
+    display: block;
+}
+
+#twitter_ico {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 14;
+    margin: 25px auto 0px;
+    clear: none;
+}
+
+#Finalize_Icon {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 75;
+    margin: 0px auto;
+    clear: right;
+}
+
+#Design_text {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: justify;
+    font-weight: normal;
+    line-height: 1em;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 78;
+    margin: 10px auto 0px;
+    clear: none;
+}
+
+#textspan1 {
+    float: none;
+    font-size: 0.9375em;
+    line-height: 29px;
+    color: rgb(149, 165, 166);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: -0.016em;
+    text-decoration: none;
+}
+
+#textspan2 {
+    float: none;
+    font-size: 0.875em;
+    line-height: 29px;
+    color: rgb(149, 165, 166);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: -0.016em;
+    text-decoration: none;
+}
+
+#Form_1 {
+    float: left;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    border: 6px solid rgba(26, 188, 156, 0.592157);
+    position: relative;
+    z-index: 13;
+    margin: -100px 0px 0px;
+    clear: both;
+    display: block;
+}
+
+#Design_Icon {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 79;
+    margin: 0px auto;
+    clear: none;
+}
+
+#Sketching_text {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: justify;
+    font-weight: normal;
+    line-height: 1em;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 82;
+    margin: 10px auto 0px;
+    clear: none;
+}
+
+#textspan {
+    float: none;
+    font-size: 0.9375em;
+    line-height: 29px;
+    color: rgb(149, 165, 166);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: -0.016em;
+    text-decoration: none;
+}
+
+#Header {
+    float: none;
+    width: 100%;
+    height: 500px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 94;
+    background: url("img/image.png")  50% 50%;
+    
+}
+
+#Sketch_Icon {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 83;
+    margin: 0px auto;
+    clear: none;
+}
+
+#text {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 600;
+    line-height: 1em;
+    margin: 4% 0px 0px 9%;
+    clear: none;
+    min-height: 0px;
+    font-family: tahoma;
+    color: rgb(250, 247, 246);
+    display: block;
+}
+
+#text4 {
+    float: right;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 600;
+    line-height: 1em;
+    margin: 4% 2% 0px 0px;
+    clear: none;
+    min-height: 0px;
+    font-family: tahoma;
+    color: rgb(250, 247, 246);
+    display: block;
+    position: relative;
+}
+
+#text4:hover {
+    text-decoration: underline;
+    color: rgb(26, 188, 156);
+}
+
+#text4:active {
+    text-decoration: underline;
+    color: rgb(26, 188, 156);
+}
+
+#text3:hover {
+    text-decoration: underline;
+    color: rgb(26, 188, 156);
+}
+
+#text3:active {
+    text-decoration: underline;
+    color: rgb(26, 188, 156);
+}
+
+#text3 {
+    float: right;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 600;
+    line-height: 1em;
+    margin: 4% 2% 0px 0px;
+    clear: none;
+    min-height: 0px;
+    font-family: tahoma;
+    color: rgb(250, 247, 246);
+    display: block;
+    position: relative;
+}
+
+#text2:hover {
+    text-decoration: underline;
+    color: rgb(26, 188, 156);
+}
+
+#text2:active {
+    text-decoration: underline;
+    color: rgb(26, 188, 156);
+}
+
+#text2 {
+    float: right;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 600;
+    line-height: 1em;
+    margin: 4% 2% 0px 0px;
+    clear: none;
+    min-height: 0px;
+    font-family: tahoma;
+    color: rgb(250, 247, 246);
+    display: block;
+    position: relative;
+}
+
+#text1:hover {
+    text-decoration: underline;
+    color: rgb(26, 188, 156);
+}
+
+#text1:active {
+    text-decoration: underline;
+    color: rgb(26, 188, 156);
+}
+
+#text1 {
+    float: right;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 600;
+    line-height: 1em;
+    margin: 4% 10% 0px 0px;
+    clear: none;
+    min-height: 0px;
+    font-family: tahoma;
+    color: rgb(250, 247, 246);
+    display: block;
+    position: relative;
+}
+
+#introduce {
+    float: none;
+    font-size: 44px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 500;
+    line-height: 1em;
+    clear: both;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    font-family: 'courier new';
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin: 200px auto 0px;
+}
+
+#line_head {
+    float: none;
+    height: 2px;
+    margin: 10px auto 0px;
+    clear: both;
+    width: 50%;
+    background-color: rgb(250, 247, 246);
+}
+
+#designer {
+    float: none;
+    font-size: 22px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin: 10px auto 0px;
+    clear: both;
+    min-height: 23px;
+    color: rgb(255, 255, 255);
+    position: relative;
+}
+
+#go_ahead_btn {
+    float: none;
+    height: 55px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 20%;
+    background-color: rgb(26, 188, 156);
+    border: 6px solid rgb(23, 165, 137);
+    margin-right: 0px;
+    position: absolute;
+    top: 473px;
+    bottom: auto;
+    left: 40%;
+    right: auto;
+    display: block;
+}
+
+#text_btn {
+    float: none;
+    font-size: 18px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin: 0% auto;
+    clear: none;
+    min-height: 43px;
+    color: rgb(255, 255, 255);
+    padding-top: 12px;
+}
+
+#Introduction {
+    float: none;
+    height: auto;
+    margin: 0px auto;
+    clear: none;
+    width: 100%;
+    display: block;
+    padding: 0px 0px 40px;
+}
+
+#Skills {
+    float: none;
+    height: auto;
+    margin: 0px auto;
+    clear: none;
+    width: 100%;
+    display: block;
+    padding: 0px 0px 20px;
+}
+
+#Sketching_name {
+    float: none;
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 600;
+    line-height: 16px;
+    margin: 10px auto 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(26, 188, 156);
+    font-family: 'lucida sans unicode';
+    position: relative;
+}
+
+#Design_name {
+    float: none;
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 600;
+    line-height: 16px;
+    margin: 10px auto 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(26, 188, 156);
+    font-family: 'lucida sans unicode';
+    display: block;
+    position: relative;
+}
+
+#Finalize_name {
+    float: none;
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 600;
+    line-height: 16px;
+    margin: 10px auto 0px;
+    clear: right;
+    min-height: 0px;
+    color: rgb(26, 188, 156);
+    font-family: 'lucida sans unicode';
+    display: block;
+}
+
+#iframe_animate {
+    width: 100%;
+    height: 655px;
+    margin: 50px auto 50px;
+    clear: none;
+    position: relative;
+    
+}
+
+#view_more_btn {
+    float: none;
+    height: 55px;
+    margin: 50px auto auto;
+    clear: none;
+    width: 240px;
+    position: relative;
+    background-color: rgb(26, 188, 156);
+    display: block;
+}
+
+#view_more {
+    float: left;
+    font-size: 22px;
+    width: 60.11%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin: 18px 0px 0px 10%;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+}
+
+#arrow {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: 50%;
+    margin: 6% 0px 0px 9.4%;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#line_skill {
+    float: none;
+    height: 1px;
+    margin: 30px auto 0px;
+    clear: none;
+    width: 80%;
+    background-color: rgb(228, 232, 232);
+}
+
+#contact {
+    float: none;
+    height: auto;
+    margin: 0px auto;
+    clear: none;
+    width: 100%;
+    padding: 0px 0px 120px;
+}
+
+#name_box {
+    float: left;
+    height: 50px;
+    margin: 0px 0px 0px 0%;
+    clear: both;
+    width: 43%;
+    background-color: rgb(228, 232, 232);
+    display: inline-block;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  padding: 10px 20px;
+  border: 1px solid #f9f9f9;
+  -webkit-border-radius: 1px;
+  border-radius: 1px;
+  font: normal 24px/normal Arial, Helvetica, sans-serif;
+  color: #1ABC9C;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+ 
+    
+}
+
+#email_box {
+    float: right;
+    height: 50px;
+    margin: 0px;
+    clear: none;
+    width: 43%;
+    display: block;
+    background-color: rgb(228, 232, 232);
+      -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  padding: 10px 20px;
+  border: 1px solid #f9f9f9;
+  -webkit-border-radius: 1px;
+  border-radius: 1px;
+  font: normal 24px/normal Arial, Helvetica, sans-serif;
+  color: #1ABC9C;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+}
+
+#quiestion_box {
+    float: none;
+    height: 150px;
+    margin: 1% auto 0px;
+    clear: none;
+    width: 60%;
+     background-color: rgb(228, 232, 232);
+      -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  padding: 10px 20px;
+  border: 1px solid #f9f9f9;
+  -webkit-border-radius: 1px;
+  border-radius: 1px;
+  font: normal 24px/normal Arial, Helvetica, sans-serif;
+  color: #1ABC9C;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+}
+
+#text9 {
+    float: left;
+    font-size: 30px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 6%;
+    margin-top: 20px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(206, 206, 206);
+}
+
+#text10 {
+    float: left;
+    font-size: 30px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 6%;
+    margin-top: 20px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(206, 206, 206);
+}
+
+#text11 {
+    float: none;
+    font-size: 30px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin: 20px 0px 0px 3%;
+    clear: none;
+    min-height: 0px;
+    color: rgb(206, 206, 206);
+}
+
+#footer {
+    float: none;
+    height: auto;
+    margin: 0px auto;
+    clear: none;
+    width: 100%;
+    background-color: rgb(26, 188, 156);
+    position: relative;
+    padding: 0px 0px 25px;
+}
+
+#skill_box {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    clear: none;
+    width: auto;
+    margin-right: auto;
+}
+
+#sketching_box {
+    float: left;
+    height: auto;
+    margin-left: 8%;
+    margin-top: 0px;
+    clear: none;
+    width: 25%;
+}
+
+#design_box {
+    float: left;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 0px;
+    clear: none;
+    width: 25%;
+}
+
+#finalize_box {
+    float: left;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 0px;
+    clear: none;
+    width: 25%;
+}
+
+#send_data_box {
+    float: none;
+    height: auto;
+    margin: 30px auto 0px;
+    clear: none;
+    width: 63%;
+    position: relative;
+}
+
+#social_box {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: -50px;
+    clear: none;
+    width: 63%;
+    margin-right: auto;
+}
+
+#iframe_hover {
+    float: none;
+    height: auto;
+    margin: 0px auto;
+    clear: none;
+    width: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0);
+    visibility: hidden;
+    position: relative;
+    display: none;
+}
+
+#img_01 {
+    float: none;
+    width: 190px;
+    max-width: 100%;
+    height: auto;
+    margin: 0px auto 10px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#iframe_box_01 {
+    float: left;
+    height: 240px;
+    margin-left: 15px;
+    margin-top: 20px;
+    clear: none;
+    width: 200px;
+    margin-right: 0px;
+    background-color: rgb(26, 188, 156);
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border: 5px solid rgb(23, 165, 137);
+}
+
+#iframe_box_02 {
+    float: right;
+    height: 240px;
+    clear: none;
+    width: 200px;
+    display: block;
+    background-color: rgb(26, 188, 156);
+    border: 5px solid rgb(23, 165, 137);
+    margin: 20px 15px 0px 0px;
+}
+
+#img_02 {
+    float: none;
+    width: 190px;
+    max-width: 100%;
+    height: auto;
+    margin: 0px auto 10px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#text5 {
+    float: none;
+    font-size: 18px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 22px;
+    clear: none;
+    min-height: 0px;
+    font-family: tahoma;
+    color: rgb(255, 255, 255);
+    display: block;
+    margin-right: auto;
+}
+
+#text5:hover {
+    text-decoration: underline;
+    width: 100%;
+    margin: 22px auto 0px;
+    float: none;
+    clear: none;
+    min-height: 0px;
+    min-width: 0px;
+}
+
+#text6:hover {
+    text-decoration: underline;
+    width: 100%;
+    margin: 22px auto 0px;
+    float: none;
+    clear: none;
+    min-height: 0px;
+    min-width: 0px;
+}
+
+#text6 {
+    float: none;
+    font-size: 18px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1em;
+    margin: 22px auto 0px;
+    clear: none;
+    min-height: 0px;
+    font-family: tahoma;
+    color: rgb(255, 255, 255);
+    display: block;
+}
+
+#iframe_box_04 {
+    float: right;
+    height: 240px;
+    margin: 20px 15px 0px 0px;
+    clear: none;
+    width: 200px;
+    display: block;
+    border: 5px solid rgb(23, 165, 137);
+    background-color: rgb(26, 188, 156);
+}
+
+#img_04 {
+    float: none;
+    width: 190px;
+    max-width: 100%;
+    height: auto;
+    margin: 0px auto 10px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#text8:hover {
+    text-decoration: underline;
+    width: 100%;
+    margin: 22px auto 0px;
+    float: none;
+    clear: none;
+    min-height: 0px;
+    min-width: 0px;
+}
+
+#text8 {
+    float: none;
+    font-size: 18px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1em;
+    margin: 22px auto 0px;
+    clear: none;
+    min-height: 0px;
+    font-family: tahoma;
+    color: rgb(255, 255, 255);
+    display: block;
+}
+
+#iframe_box_03 {
+    float: left;
+    height: 240px;
+    margin-left: 15px;
+    margin-top: 20px;
+    clear: both;
+    width: 200px;
+    margin-right: 0px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border: 5px solid rgb(23, 165, 137);
+    display: block;
+    background-color: rgb(26, 188, 156);
+}
+
+#img_03 {
+    float: none;
+    width: 190px;
+    max-width: 100%;
+    height: auto;
+    margin: 0px auto 10px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#text7:hover {
+    text-decoration: underline;
+    width: 100%;
+    margin: 22px auto 0px;
+    float: none;
+    clear: none;
+    min-height: 0px;
+    min-width: 0px;
+}
+
+#text7 {
+    float: none;
+    font-size: 18px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 22px;
+    clear: none;
+    min-height: 0px;
+    font-family: tahoma;
+    color: rgb(255, 255, 255);
+    display: block;
+    margin-right: auto;
+}
+
+@media only screen and (max-width: 1600px) {
+    #Header {
+        clear: none;
+    }
+
+    #text2 {
+        display: block;
+    }
+
+    #text1 {
+        clear: none;
+        display: block;
+    }
+
+    #text3 {
+        display: block;
+    }
+
+    #text4 {
+        display: block;
+    }
+
+    #go_ahead_btn {
+        right: auto;
+    }
+
+    #Skills {
+        clear: none;
+    }
+
+    #horizontal_rule {
+        clear: none;
+    }
+
+    #iframe_animate {
+        visibility: visible;
+    }
+
+    #view_more_btn {
+        clear: none;
+    }
+
+    #line_skill {
+        clear: none;
+    }
+
+    #contact {
+        clear: none;
+    }
+
+    #footer {
+        clear: none;
+    }
+
+    #Caption {
+        margin-top: 75px;
+        clear: none;
+    }
+
+    #Design_Icon {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+    }
+
+    #Design_name {
+        clear: none;
+    }
+
+    #Sketch_Icon {
+        clear: none;
+    }
+
+    #Sketching_name {
+        clear: none;
+    }
+
+    #Sketching_text {
+        clear: none;
+    }
+
+    #iframe_hover {
+        clear: none;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        visibility: hidden;
+        display: none;
+    }
+
+    #iframe_box_01 {
+        width: 200px;
+        height: 240px;
+    }
+
+    #text5 {
+        width: 100%;
+    }
+
+    #iframe_box_02 {
+        width: 200px;
+        height: 240px;
+    }
+
+    #iframe_box_03 {
+        width: 200px;
+        height: 240px;
+    }
+
+    #text7 {
+        width: 100%;
+    }
+
+    #iframe_box_04 {
+        width: 200px;
+        height: 240px;
+    }
+}
+
+@media only screen {
+    #text1 {
+        clear: none;
+    }
+
+    #introduce {
+        clear: none;
+    }
+
+    #line_head {
+        clear: none;
+        width: 50%;
+        height: 2px;
+    }
+
+    #designer {
+        clear: none;
+    }
+
+    #text2 {
+        clear: none;
+    }
+
+    #text3 {
+        clear: none;
+    }
+
+    #text4 {
+        clear: none;
+    }
+
+    #Header {
+        width: 100%;
+        height: 500px;
+    }
+
+    #go_ahead_btn {
+        bottom: auto;
+        right: auto;
+        width: 19.999443%;
+        height: 55px;
+    }
+
+    #text_btn {
+        clear: none;
+        width: 100%;
+    }
+
+    #Introduction {
+        display: block;
+        clear: none;
+        width: 100%;
+    }
+
+    #intro_text {
+        width: 59.999722%;
+    }
+
+    #Skills {
+        clear: none;
+        width: 100%;
+    }
+
+    #horizontal_rule {
+        clear: none;
+        margin-top: 20px;
+        width: 79.999165%;
+        height: 1px;
+    }
+
+    #iframe_animate {
+        clear: none;
+        height: 655px;
+        visibility: visible;
+    }
+
+    #view_more_btn {
+        clear: none;
+        width: 240px;
+        height: 55px;
+    }
+
+    #line_skill {
+        clear: none;
+        height: 1px;
+    }
+
+    #contact {
+        clear: none;
+        width: 100%;
+    }
+
+    #footer {
+        clear: none;
+        width: 100%;
+    }
+
+    #skill_box {
+        float: none;
+        margin-left: auto;
+        margin-top: 20px;
+        clear: none;
+        width: auto;
+        margin-right: auto;
+    }
+
+    #Sketch_Icon {
+        clear: none;
+    }
+
+    #Design_Icon {
+        clear: none;
+        float: none;
+    }
+
+    #Finalize_Icon {
+        clear: none;
+    }
+
+    #Sketching_name {
+        clear: none;
+    }
+
+    #Design_name {
+        clear: none;
+    }
+
+    #Finalize_name {
+        clear: none;
+    }
+
+    #Sketching_text {
+        clear: none;
+    }
+
+    #Design_text {
+        clear: none;
+    }
+
+    #Finalize_text {
+        clear: none;
+    }
+
+    #sketching_box {
+        float: left;
+        margin-left: 8%;
+        margin-top: 0px;
+        clear: none;
+        width: 25%;
+    }
+
+    #design_box {
+        float: left;
+        margin-left: 5%;
+        margin-top: 0px;
+        clear: none;
+        width: 25%;
+    }
+
+    #finalize_box {
+        float: left;
+        margin-left: 5%;
+        margin-top: 0px;
+        clear: none;
+        width: 25%;
+    }
+
+    #view_more {
+        width: auto;
+    }
+
+    #arrow {
+        height: 50%;
+    }
+
+    #Caption {
+        clear: none;
+    }
+
+    #name_box {
+        clear: none;
+        width: 42%;
+        height: 30px;
+    }
+
+    #quiestion_box {
+        width: 60%;
+        height: 100px;
+    }
+
+    #send_data_box {
+        float: none;
+        height: auto;
+        clear: none;
+        position: relative;
+        width: 62.999499%;
+    }
+
+    #email_box {
+        clear: none;
+        width: 42%;
+        height: 30px;
+    }
+
+    #text11 {
+        clear: none;
+    }
+
+    #social_box {
+        float: none;
+        height: auto;
+        margin-left: auto;
+        margin-top: -50px;
+        clear: none;
+        width: 62.999499%;
+        margin-right: auto;
+    }
+
+    #Text_Left {
+        clear: none;
+    }
+
+    #Form_1 {
+        float: left;
+        clear: none;
+        height: 100px;
+        width: 100px;
+    }
+
+    #Form_2 {
+        clear: none;
+        width: 100px;
+        height: 100px;
+    }
+
+    #Form_3 {
+        width: 100px;
+        height: 100px;
+    }
+
+    #twitter_ico {
+        clear: none;
+    }
+
+    #facebook_ico {
+        clear: none;
+    }
+
+    #Text_Right {
+        clear: none;
+    }
+
+    #dribbble_ico {
+        clear: none;
+    }
+}
+
+@media only screen and (max-width: 980px) {
+    #dribbble_ico {
+        clear: none;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    #view_more_btn {
+        width: 240px;
+    }
+
+    #text4 {
+        clear: none;
+        margin-left: 8%;
+        margin-right: 0px;
+        float: left;
+        margin-top: 10%;
+    }
+
+    #text3 {
+        clear: none;
+        margin-right: 0px;
+        margin-top: 10%;
+        margin-left: 8%;
+        float: left;
+    }
+
+    #text2 {
+        clear: none;
+        margin-right: 0px;
+        margin-top: 10%;
+        margin-left: 8%;
+        float: left;
+    }
+
+    #text1 {
+        clear: both;
+        margin-right: 0px;
+        margin-top: 10%;
+        margin-left: 8%;
+        float: left;
+        font-size: 1em;
+    }
+
+    #introduce {
+        margin-top: 200px;
+        clear: none;
+        font-size: 36px;
+    }
+
+    #text_btn {
+        font-size: 14px;
+        padding-top: 14px;
+        width: 100%;
+    }
+
+    #go_ahead_btn {
+        position: absolute;
+        top: 473px;
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: none;
+        margin-right: 0px;
+        right: auto;
+    }
+
+    #Headline_text {
+        margin-top: 100px;
+        font-size: 28px;
+    }
+
+    #intro_text {
+        width: 80%;
+        font-size: 14px;
+    }
+
+    #designer {
+        font-size: 22px;
+    }
+
+    #Sketching_name {
+        font-size: 14px;
+    }
+
+    #sketching_box {
+        width: 80%;
+        clear: right;
+    }
+
+    #Sketching_text {
+        font-size: 14px;
+    }
+
+    #design_box {
+        width: 80%;
+        margin-left: 8%;
+        clear: right;
+        margin-top: 20px;
+    }
+
+    #Design_name {
+        font-size: 14px;
+    }
+
+    #Design_text {
+        font-size: 14px;
+    }
+
+    #finalize_box {
+        width: 80%;
+        margin-left: 8%;
+        margin-top: 20px;
+        clear: right;
+    }
+
+    #Finalize_name {
+        font-size: 14px;
+    }
+
+    #Finalize_text {
+        font-size: 14px;
+    }
+
+    #Caption {
+        font-size: 36px;
+    }
+
+    #name_box {
+        clear: none;
+        width: 90%;
+        height: 50px;
+        margin-top: 0px;
+        margin-left: 0%;
+    }
+
+    #send_data_box {
+        width: 80%;
+    }
+
+    #text9 {
+        font-size: 24px;
+    }
+
+    #email_box {
+        margin-left: 0px;
+        margin-right: 0px;
+        float: left;
+        margin-top: 20px;
+        clear: right;
+        width: 90%;
+        height: 50px;
+    }
+
+    #text10 {
+        font-size: 24px;
+    }
+
+    #quiestion_box {
+        margin-top: 3%;
+        clear: none;
+        width: 74%;
+        height: 100px;
+    }
+
+    #text11 {
+        font-size: 24px;
+    }
+
+    #Form_2 {
+        width: 50px;
+        height: 50px;
+    }
+
+    #Form_1 {
+        width: 50px;
+        height: 50px;
+        margin-top: -50px;
+    }
+
+    #Form_3 {
+        width: 50px;
+        height: 50px;
+        margin-top: -50px;
+    }
+
+    #facebook_ico {
+        margin-top: 12px;
+        width: auto;
+        height: 19px;
+    }
+
+    #twitter_ico {
+        height: 15px;
+        margin-top: 12px;
+    }
+
+    #dribbble_ico {
+        height: 19px;
+        margin-top: 12px;
+        clear: none;
+    }
+
+    #social_box {
+        margin-top: -25px;
+    }
+
+    #Text_Left {
+        font-size: 16px;
+    }
+
+    #Text_Right {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    #text1 {
+        margin-top: 15%;
+    }
+
+    #text2 {
+        margin-top: 15%;
+    }
+
+    #text3 {
+        margin-top: 15%;
+    }
+
+    #text4 {
+        margin-top: 15%;
+    }
+
+   
+
+    #view_more_btn {
+        clear: none;
+    }
+
+    #line_skill {
+        clear: none;
+    }
+
+    #contact {
+        margin-top: 0px;
+        clear: none;
+        padding-bottom: 80px;
+    }
+
+    #footer {
+        margin-top: 0px;
+        clear: none;
+    }
+
+    #iframe_animate {
+        clear: none;
+        float: none;
+        margin-top: 50px;
+        display: none;
+        visibility: hidden;
+    }
+
+    #iframe_hover {
+        clear: none;
+        visibility: visible;
+        height: auto;
+        margin-bottom: 30px;
+        margin-top: 25px;
+        display: block;
+    }
+
+    #img_01 {
+        float: none;
+        max-width: 100%;
+        height: auto;
+        margin: 0px auto 10px;
+        clear: none;
+        color: rgb(0, 0, 0);
+    }
+
+    #iframe_box_01 {
+        float: left;
+        height: 240px;
+        margin-left: 15px;
+        margin-top: 20px;
+        clear: none;
+        width: 200px;
+        margin-right: 0px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border: 5px solid rgb(23, 165, 137);
+    }
+
+    #iframe_box_02 {
+        height: 240px;
+        clear: none;
+        width: 200px;
+        display: block;
+        border: 5px solid rgb(23, 165, 137);
+        float: right;
+    }
+
+    #img_02 {
+        float: none;
+        height: auto;
+        margin: 0px auto 10px;
+        clear: none;
+        color: rgb(0, 0, 0);
+    }
+
+    #text5 {
+        float: none;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        font-weight: 700;
+        line-height: 1em;
+        margin-left: auto;
+        clear: none;
+        min-height: 0px;
+        font-family: tahoma;
+        color: rgb(255, 255, 255);
+        display: block;
+        margin-right: auto;
+    }
+
+    #text5:hover {
+        text-decoration: underline;
+        width: 100%;
+        float: none;
+        clear: none;
+        min-height: 0px;
+        min-width: 0px;
+    }
+
+    #text6:hover {
+        text-decoration: underline;
+        width: 100%;
+        float: none;
+        clear: none;
+        min-height: 0px;
+        min-width: 0px;
+    }
+
+    #text6 {
+        float: none;
+        height: auto;
+        text-align: center;
+        font-weight: 700;
+        line-height: 1em;
+        clear: none;
+        min-height: 0px;
+        font-family: tahoma;
+        color: rgb(255, 255, 255);
+        display: block;
+    }
+
+    #iframe_box_04 {
+        height: 240px;
+        clear: none;
+        width: 200px;
+        display: block;
+        border: 5px solid rgb(23, 165, 137);
+    }
+
+    #img_04 {
+        float: none;
+        max-width: 100%;
+        height: auto;
+        margin: 0px auto 10px;
+        clear: none;
+        color: rgb(0, 0, 0);
+    }
+
+    #text8:hover {
+        text-decoration: underline;
+        width: 100%;
+        float: none;
+        clear: none;
+        min-height: 0px;
+        min-width: 0px;
+    }
+
+    #text8 {
+        float: none;
+        height: auto;
+        text-align: center;
+        font-weight: 700;
+        line-height: 1em;
+        clear: none;
+        min-height: 0px;
+        font-family: tahoma;
+        color: rgb(255, 255, 255);
+        display: block;
+    }
+
+    #iframe_box_03 {
+        float: left;
+        height: 240px;
+        margin-left: 15px;
+        margin-top: 20px;
+        clear: none;
+        width: 200px;
+        margin-right: 0px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border: 5px solid rgb(23, 165, 137);
+        display: block;
+    }
+
+    #img_03 {
+        float: none;
+        max-width: 100%;
+        height: auto;
+        margin: 0px auto 10px;
+        clear: none;
+        color: rgb(0, 0, 0);
+    }
+
+    #text7:hover {
+        text-decoration: underline;
+        width: 100%;
+        float: none;
+        clear: none;
+        min-height: 0px;
+        min-width: 0px;
+    }
+
+    #text7 {
+        float: none;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        font-weight: 700;
+        line-height: 1em;
+        margin-left: auto;
+        clear: none;
+        min-height: 0px;
+        font-family: tahoma;
+        color: rgb(255, 255, 255);
+        display: block;
+        margin-right: auto;
+    }
+}
+

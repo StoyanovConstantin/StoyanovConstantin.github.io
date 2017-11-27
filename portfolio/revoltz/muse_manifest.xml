@@ -1,0 +1,61 @@
+<manifest alg="2" build="44" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1447065153682">
+  <folder name="css">
+    <file name="site_global.css" crc="9611574"/>
+    <file name="index.css" crc="3925928097" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="untitled-1">
+      <folder name="edge_includes">
+        <file name="edge.5.0.1.min.js" crc="3758894637" mt="1446671611000"/>
+      </folder>
+      <folder name="images">
+        <file name="active.png" crc="3902699174" mt="1446671611000"/>
+        <file name="image_1.png" crc="3807114758" mt="1446671611000"/>
+        <file name="image_2.png" crc="3941976641" mt="1446671611000"/>
+        <file name="image_3.png" crc="4028777072" mt="1446671611000"/>
+        <file name="image_4.png" crc="198501916" mt="1446671611000"/>
+        <file name="Poster.png" crc="3864875126" mt="1446671611000"/>
+        <file name="slider copy 1.png" crc="76188136" mt="1446671611000"/>
+        <file name="slider copy 12.png" crc="76188136" mt="1446671611000"/>
+        <file name="slider copy 2.png" crc="76188136" mt="1446671611000"/>
+        <file name="slider copy 3.png" crc="76188136" mt="1446671611000"/>
+      </folder>
+      <file name="icon.png" crc="3864875126" mt="1446671611000"/>
+      <file name="Untitled-1_edge.js" crc="171108427" mt="1446671611000"/>
+      <file name="Untitled-1.html" crc="4017474894" mt="1446671611000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index"/>
+    <file name="museutils.js" crc="479751881" ref="index"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="search.png" crc="4076145469" ref="index"/>
+    <file name="rss-icon.png" crc="4245377530" ref="index"/>
+    <file name="myspace-icon.png" crc="4228775878" ref="index"/>
+    <file name="facebook-icon.png" crc="412451761" ref="index"/>
+    <file name="twitter-icon.png" crc="4290206193" ref="index"/>
+    <file name="logo.png" crc="194860555" ref="index"/>
+    <file name="image_left1.png" crc="4180817023" ref="index"/>
+    <file name="image_right1.png" crc="178600119" ref="index"/>
+    <file name="ad 2.jpg" crc="355220909" ref="index"/>
+    <file name="ad 1.jpg" crc="504737224" ref="index"/>
+    <file name="ad 3.jpg" crc="144272162" ref="index"/>
+    <file name="ad 4.jpg" crc="3886539409" ref="index"/>
+    <file name="read more.png" crc="3813567399" ref="index"/>
+    <file name="image_left2.png" crc="3801393110" ref="index"/>
+    <file name="image_right2.png" crc="396973321" ref="index"/>
+    <file name="thumb 1.png" crc="453426476" ref="index"/>
+    <file name="thumb 2.png" crc="181935161" ref="index"/>
+    <file name="thumb 3.png" crc="819768" ref="index"/>
+    <file name="thumb 4.png" crc="4001195328" ref="index"/>
+    <file name="thumb 5.png" crc="4032764209" ref="index"/>
+    <file name="thumb 6.png" crc="4122424737" ref="index"/>
+    <file name="revoltz logo_foot.png" crc="38572489" ref="index"/>
+    <file name="thumb 7.png" crc="3841008879" ref="index"/>
+    <file name="thumb 8.png" crc="3880479175" ref="index"/>
+    <file name="thumb 9.png" crc="110620742" ref="index"/>
+  </folder>
+  <file name="index.html" crc="11892262" mt="1447065146718" redirect="true"/>
+</manifest>
