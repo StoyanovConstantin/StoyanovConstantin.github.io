@@ -1,0 +1,213 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: auto;
+}
+
+#header-box {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    position: relative;
+}
+
+body {
+    background-image:url("img/background_pattern_x1.png"),-webkit-linear-gradient(0deg, rgb(29, 29, 29) 19%, rgb(211, 0, 0) 50%, rgb(29, 29, 29) 80%);
+    background-image: url(file:///D:/rabochiy%20stol/airsoft/airsoft_project/assets/img/background_pattern_x1.png), linear-gradient(90deg, rgb(29, 29, 29) 19%, rgb(211, 0, 0) 50%, rgb(29, 29, 29) 80%);
+    background-position: 0% 0%;
+    background-repeat: repeat;
+    background-attachment: scroll, fixed;
+    -webkit-background-size: auto;
+    background-size: auto;
+}
+
+#text {
+    float: right;
+    font-size: 24px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    margin-right: 0px;
+    margin-bottom: 0px;
+    min-width: 0px;
+    padding-top: 30px;
+    background-image:url("img/header_name_bg.png");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    -webkit-background-size: auto;
+    background-size: auto;
+    padding-right: 100px;
+    padding-bottom: 30px;
+    padding-left: 120px;
+}
+
+#comp-box {
+    float: left;
+    height: auto;
+    margin-left: 40px;
+    margin-top: 40px;
+    clear: none;
+    width: auto;
+    min-height: 550px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    margin-bottom: 40px;
+    margin-right: 40px;
+}
+
+#comp-box-01 {
+    float: left;
+    height: auto;
+    clear: none;
+    width: auto;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    min-width: 0px;
+    min-height: 0px;
+}
+
+#comp-box1 {
+    float: none;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: 0px;
+    position: relative;
+    display: block;
+    min-width: 300px;
+    min-height: 0px;
+    background-color: rgb(74, 74, 74);
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+
+#footer {
+    float: none;
+    height: 200px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: left;
+    width: 100%;
+    margin-right: auto;
+    position: static;
+    top: 0px;
+    left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    background-image:url("img/footer_bg.png");
+    background-position: 0% 0%;
+    background-repeat: repeat-x;
+    background-attachment: scroll;
+    -webkit-background-size: auto;
+    background-size: auto;
+}
+
+#Image-comp-01 {
+    float: left;
+    width: 25%;
+    max-width: 300px;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    margin-bottom: 0px;
+    min-width: 150px;
+    min-height: 0px;
+}
+
+#autor {
+    float: left;
+    font-size: 18px;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(159, 159, 159);
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#textspan {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgb(255, 255, 255);
+}
+
+#date {
+    float: left;
+    font-size: 14px;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    margin-right: 10px;
+    color: rgb(159, 159, 159);
+    margin-bottom: 10px;
+}
+
+#textspan1 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgb(255, 255, 255);
+}
+
+#text1 {
+    float: left;
+    font-size: 16px;
+    width: 70%;
+    height: auto;
+    text-align: justify;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    margin-right: 10px;
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    margin-bottom: 10px;
+}
+

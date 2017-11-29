@@ -1591,7 +1591,7 @@
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-			color: #333;
+			color: #666;
 		}
 
 	h2 {
@@ -1600,7 +1600,7 @@
 	}
 
 		h2.alt {
-			color: #888;
+			color: #666;
 		}
 
 			h2.alt strong {
@@ -1644,7 +1644,7 @@
 	}
 
 		a:hover {
-			color: #E27689;
+			color: #00ced1;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -1736,6 +1736,16 @@
          margin: 100px;
             text-align: center;
 }
+        
+
+        .work_contact {
+        padding-left: 30px;
+        margin-bottom: 10px;
+        color: #333;
+        text-align: left; 
+
+        }
+
         .work_text{
             padding-left: 30px;
             padding-right: 30px;
@@ -1749,13 +1759,22 @@
             .check_crl{ 
                 font-size: 16px;                
         }
+            .phone_ico{
+                    color: #333;
+                    font-size: 14px;
+                    margin-right: 5px;
+        }
         
         hr {
             height: 3px;
             background-color: #00CED1; 
         }
         table {
+                    
                     margin-bottom: -50px;
+                }
+        table.cont{
+                    margin-left: 15%;
                 }
 /* the end */
 
@@ -1985,7 +2004,7 @@
 
 	.icon {
 		text-decoration: none;
-	}
+        }
 
 		.icon:before {
 			display: inline-block;
@@ -2135,7 +2154,7 @@
 			}
 
 				#nav ul li a.active span:before {
-					color: #e27689;
+					color: #00cde1;
 				}
 
 /* Footer */
@@ -2188,14 +2207,11 @@
 				color: rgba(255, 255, 255, 0.75);
 			}
 
-				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
+				#main > section.dark , #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
 					color: inherit;
 				}
 
-				#main > section.dark strong {
-					color: #fff;
-					border-color: inherit;
-				}
+				
 
 				#main > section.dark a {
 					color: #fff;

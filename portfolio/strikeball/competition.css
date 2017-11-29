@@ -1,0 +1,704 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: auto;
+}
+
+#header-box {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    position: relative;
+}
+
+body {
+    background-image:url("img/background_pattern_x1.png"),-webkit-linear-gradient(0deg, rgb(29, 29, 29) 19%, rgb(211, 0, 0) 50%, rgb(29, 29, 29) 80%);
+    background-image: url(file:///D:/rabochiy%20stol/airsoft/airsoft_project/assets/img/background_pattern_x1.png), linear-gradient(90deg, rgb(29, 29, 29) 19%, rgb(211, 0, 0) 50%, rgb(29, 29, 29) 80%);
+    background-position: 0% 0%;
+    background-repeat: repeat;
+    background-attachment: scroll, fixed;
+    -webkit-background-size: auto;
+    background-size: auto;
+}
+
+#text {
+    float: right;
+    font-size: 26px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    margin-right: 0px;
+    margin-bottom: 0px;
+    min-width: 0px;
+    padding-top: 30px;
+    background-image:url("img/header_name_bg.png");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    -webkit-background-size: auto;
+    background-size: auto;
+    padding-right: 100px;
+    padding-bottom: 30px;
+    padding-left: 120px;
+}
+
+#comp-box {
+    float: left;
+    height: auto;
+    margin-left: 40px;
+    margin-top: 40px;
+    clear: none;
+    width: auto;
+    min-height: 550px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    margin-bottom: 40px;
+    margin-right: 40px;
+}
+
+#comp-box-01 {
+    float: left;
+    height: auto;
+    clear: none;
+    width: auto;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    min-width: 0px;
+    min-height: 0px;
+    border-bottom-width: 3px;
+    border-bottom-color: rgb(255, 93, 0);
+    border-bottom-style: solid;
+}
+
+#comp-box-02 {
+    float: none;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 0px;
+    clear: both;
+    width: auto;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    min-width: 0px;
+    min-height: 0px;
+    border-bottom-color: rgb(255, 93, 0);
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+}
+
+#comp-box-03 {
+    float: none;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    min-width: 0px;
+    min-height: 0px;
+    border-bottom-color: rgb(255, 93, 0);
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+}
+
+#comp-box-04 {
+    float: none;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    min-width: 0px;
+    min-height: 0px;
+    border-bottom-color: rgb(255, 93, 0);
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+}
+
+#comp-box1 {
+    float: none;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: 0px;
+    position: relative;
+    display: block;
+    min-width: 300px;
+    min-height: 0px;
+    background-color: rgb(74, 74, 74);
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+
+#footer {
+    float: none;
+    height: 200px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: left;
+    width: 100%;
+    margin-right: auto;
+    position: static;
+    top: 0px;
+    left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    background-image:url("img/footer_bg.png");
+    background-position: 0% 0%;
+    background-repeat: repeat-x;
+    background-attachment: scroll;
+    -webkit-background-size: auto;
+    background-size: auto;
+}
+
+#Image-comp-01 {
+    float: left;
+    width: 25%;
+    max-width: 300px;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    margin-bottom: 0px;
+    min-width: 150px;
+    min-height: 0px;
+}
+
+#Image-comp-02 {
+    float: left;
+    width: 25%;
+    max-width: 300px;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-bottom: 0px;
+    margin-right: 0px;
+    min-width: 150px;
+}
+
+#Image-comp-03 {
+    float: left;
+    width: 25%;
+    max-width: 300px;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-bottom: 0px;
+    margin-right: 0px;
+    min-width: 150px;
+    min-height: 0px;
+}
+
+#Image-comp-04 {
+    float: left;
+    width: 25%;
+    max-width: 300px;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+    min-width: 150px;
+    min-height: 0px;
+    margin-bottom: 0px;
+}
+
+#title {
+    float: left;
+    font-size: 16px;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    margin-right: 10px;
+    color: rgb(255, 255, 255);
+    min-width: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin-bottom: 10px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+#autor {
+    float: left;
+    font-size: 14px;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(159, 159, 159);
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#textspan {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgb(255, 255, 255);
+}
+
+#date {
+    float: left;
+    font-size: 14px;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    margin-right: 10px;
+    color: rgb(159, 159, 159);
+    margin-bottom: 10px;
+}
+
+#textspan1 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgb(255, 255, 255);
+}
+
+#text1 {
+    float: left;
+    font-size: 16px;
+    width: 70%;
+    height: auto;
+    text-align: justify;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    margin-right: 10px;
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    margin-bottom: 10px;
+}
+
+#more {
+    float: right;
+    font-size: 16px;
+    width: 70%;
+    height: auto;
+    text-align: right;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    min-width: 0px;
+    margin-right: 20px;
+    color: rgb(255, 93, 0);
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
+#title1 {
+    float: left;
+    font-size: 16px;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    min-width: 0px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#autor1 {
+    float: left;
+    font-size: 14px;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(159, 159, 159);
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#textspan2 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgb(255, 255, 255);
+}
+
+#date1 {
+    float: left;
+    font-size: 14px;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(159, 159, 159);
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#textspan3 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgb(255, 255, 255);
+}
+
+#text2 {
+    float: left;
+    font-size: 16px;
+    width: 70%;
+    height: auto;
+    text-align: justify;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#more1 {
+    float: right;
+    font-size: 16px;
+    width: 70%;
+    height: auto;
+    text-align: right;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    min-width: 0px;
+    color: rgb(255, 93, 0);
+    text-decoration: underline;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+#title2 {
+    float: left;
+    font-size: 16px;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    min-width: 0px;
+    margin-right: 10px;
+    max-width: none;
+    margin-bottom: 10px;
+}
+
+#autor2 {
+    float: left;
+    font-size: 14px;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    margin-right: 10px;
+    min-width: 0px;
+    max-width: none;
+    margin-bottom: 10px;
+}
+
+#date2 {
+    float: left;
+    font-size: 14px;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(159, 159, 159);
+    margin-right: 10px;
+    min-width: 0px;
+    max-width: none;
+    margin-bottom: 10px;
+}
+
+#textspan5 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgb(255, 255, 255);
+}
+
+#text3 {
+    float: left;
+    font-size: 16px;
+    width: 70%;
+    height: auto;
+    text-align: justify;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    margin-right: 10px;
+    min-width: 0px;
+    max-width: none;
+    margin-bottom: 10px;
+}
+
+#more2 {
+    float: right;
+    font-size: 16px;
+    width: 70%;
+    height: auto;
+    text-align: right;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    min-width: 0px;
+    color: rgb(255, 93, 0);
+    text-decoration: underline;
+    margin-right: 20px;
+    max-width: none;
+    margin-bottom: 10px;
+}
+
+#textspan4 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgb(159, 159, 159);
+}
+
+#title3 {
+    float: left;
+    font-size: 16px;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    min-width: 0px;
+    margin-right: 10px;
+    visibility: visible;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-bottom: 10px;
+}
+
+#autor3 {
+    float: left;
+    font-size: 14px;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    margin-right: 10px;
+    visibility: visible;
+    min-width: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-bottom: 10px;
+}
+
+#textspan6 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgb(159, 159, 159);
+}
+
+#date3 {
+    float: left;
+    font-size: 14px;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(159, 159, 159);
+    margin-right: 10px;
+    visibility: visible;
+    min-width: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-bottom: 10px;
+}
+
+#textspan7 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgb(255, 255, 255);
+}
+
+#text4 {
+    float: left;
+    font-size: 16px;
+    width: 70%;
+    height: auto;
+    text-align: justify;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    margin-right: 10px;
+    visibility: visible;
+    min-width: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-bottom: 10px;
+}
+
+#more3 {
+    float: right;
+    font-size: 16px;
+    width: 70%;
+    height: auto;
+    text-align: right;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    min-width: 0px;
+    color: rgb(255, 93, 0);
+    text-decoration: underline;
+    margin-right: 20px;
+    visibility: visible;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-bottom: 10px;
+}
+
