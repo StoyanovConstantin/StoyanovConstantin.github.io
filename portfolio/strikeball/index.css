@@ -17,7 +17,7 @@
 
 body {
     background-image:url("img/background_pattern_x1.png"),-webkit-linear-gradient(0deg, rgb(29, 29, 29) 19%, rgb(211, 0, 0) 50%, rgb(29, 29, 29) 80%);
-    background-image: url(file:///D:/rabochiy%20stol/airsoft/airsoft_project/assets/img/background_pattern_x1.png), linear-gradient(90deg, rgb(29, 29, 29) 19%, rgb(211, 0, 0) 50%, rgb(29, 29, 29) 80%);
+    background-image: url(img/background_pattern_x1.png), linear-gradient(90deg, rgb(29, 29, 29) 19%, rgb(211, 0, 0) 50%, rgb(29, 29, 29) 80%);
     background-attachment: scroll, fixed;
     -webkit-background-size: auto;
     background-size: auto;
