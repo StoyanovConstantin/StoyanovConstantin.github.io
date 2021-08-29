@@ -1520,3 +1520,19 @@ article {
 .nocov{
   background-size: contain !important;
 }
+
+.pin_link{
+  background-color: #fbefdc;
+}
+
+.web-link{
+  margin-top: 50px;
+  font-size: 16pt;
+  color: #262626;
+  font-weight: 100;
+}
+
+.web-link a{
+  font-size: 18pt;
+  font-weight: 400;
+}
