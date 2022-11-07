@@ -1,40 +1,37 @@
-<?php 
+<?
 
-require_once('phpmailer/PHPMailerAutoload.php');
-$mail = new PHPMailer;
-$mail->CharSet = 'utf-8';
+if($_POST["submit"])
 
-$name = $_POST['user_name'];
-$email = $_POST['user_email'];
-$message = $_POST['user_message'];
+{
 
-//$mail->SMTPDebug = 3;                               // Enable verbose debug output
+    $email_admin = 'stoyanov.c@ya.ru'; if(!$email_admin) { $BAD = 'Поле $email_admin не заполнено'; }
+    $subject = 'Тема тестовая';
+    if($_POST["name"]) { $name = strip_tags ($_POST["name"]); } else { $BAD = 'Поле name не заполнено'; }
 
-$mail->isSMTP();                                      // Set mailer to use SMTP
-$mail->Host = 'smtp.yandex.ua';  																							// Specify main and backup SMTP servers
-$mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = ''; // Ваш логин от почты с которой будут отправляться письма
-$mail->Password = ''; // Ваш пароль от почты с которой будут отправляться письма
-$mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
-$mail->Port = 465; // TCP port to connect to / этот порт может отличаться у других провайдеров
+    if($_POST["email"]) { $email = strip_tags ($_POST["email"]); } else { $BAD = 'Поле email не заполнено'; }
 
-$mail->setFrom('antonov.andry82@yandex.ua'); // от кого будет уходить письмо?
-$mail->addAddress('stoyanov.c@ya.ru');     // Кому будет уходить письмо 
-//$mail->addAddress('ellen@example.com');               // Name is optional
-//$mail->addReplyTo('info@example.com', 'Information');
-//$mail->addCC('cc@example.com');
-//$mail->addBCC('bcc@example.com');
-//$mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
-//$mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
-$mail->isHTML(true);                                  // Set email format to HTML
+    if($_POST["message"])
 
-$mail->Subject = 'Заявка с тестового сайта';
-$mail->Body    = '' .$name . ' оставил заявку, его email ' .$email. '<br>Текст этого пользователя: ' .$message;
-$mail->AltBody = '';
+    {
 
-if(!$mail->send()) {
-    echo 'Error';
-} else {
-    header('location: thank-you.html');
+    $message = 'Пользователь ' .$name .' с емайлом ' .$email .' написал : <br> '. strip_tags ($_POST["message"]);
+
+    }
+
+    else { $BAD = 'Поле message не заполнено'; }
+
+    if(!$BAD)
+
+    {
+
+       $send = @mail($email_admin, $subject, $message);
+
+        if($send) { $info = 'Сообщение отправлено'; } else {$BAD = 'не удалось отправить сообщение'; }
+
+    }
+
+    if($BAD){ $info = '<red>'.$BAD .'</red>';}
+
 }
+
 ?>
