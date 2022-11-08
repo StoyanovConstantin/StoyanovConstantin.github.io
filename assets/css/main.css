@@ -1595,7 +1595,7 @@
 		}
 
 	h2 {
-		font-size: 2em;
+		font-size: 1.7em;
 		letter-spacing: -1px;
 	}
 
@@ -2057,6 +2057,25 @@
 		top: 0;
 		width: 375px;
 	}
+
+
+	
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 97%}
+    50%{background-position:100% 4%}
+    100%{background-position:0% 97%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 97%}
+    50%{background-position:100% 4%}
+    100%{background-position:0% 97%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 97%}
+    50%{background-position:100% 4%}
+    100%{background-position:0% 97%}
+}
 
 		#header .top {
 			-moz-flex-grow: 1;
