@@ -26,14 +26,11 @@ ol.carousel-indicators > li {
     list-style: none;
 }
 
-.main_header {
-    height: 100vh;
-}
 
 .fullscreen-bg {
     overflow: hidden;
     position: relative;
-    height: 100vh;
+    height: 100%;
     width: 100%;
     padding-top: 45%;
 }
