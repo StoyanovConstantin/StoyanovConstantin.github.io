@@ -1,0 +1,56 @@
+/* background #0E0B01 */
+/* text #FFF9EC */
+/* accent #ffbf00 */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #0E0B01 url(../img/bg.png) repeat;
+    color: #FFF9EC;
+}
+
+.main_review {
+    height: 400px;
+}
+
+.header_navigation {
+    background-color: #0E0B01;
+}
+
+.main_cat_img {
+    max-height: 350px;
+    padding: 10%;
+    border-radius: 40px;
+    transition: all 0.5s ease-in-out;
+}
+
+.main_cat_img:hover {
+    padding: 0;
+    border-radius: 12px 12px 0 0;
+}
+
+.main_cat_card {
+    background-color: rgba(0,0,0,0);
+    color: #FFF9EC;
+}
+
+a {
+    text-decoration: none;
+}
+
+ol.carousel-indicators > li {
+    list-style: none;
+}
+
+.footer_map {
+    background-image: url("../img/map.png");
+    height: 150px;
+    background-size: cover;
+}
+
+.footer_title_line {
+    border: 3px solid #ffc107;
+}
+
