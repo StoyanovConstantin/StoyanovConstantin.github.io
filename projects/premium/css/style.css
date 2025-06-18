@@ -1,0 +1,138 @@
+/* background #0E0B01 */
+/* text #FFF9EC */
+/* accent #ffbf00 */
+@font-face {
+    font-family: "Denistina";
+    src: url("Denistina.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #0E0B01 url(../img/bg.png) repeat;
+    color: #FFF9EC;
+}
+
+a {
+    text-decoration: none;
+}
+
+ol.carousel-indicators > li {
+    list-style: none;
+}
+
+
+.fullscreen-bg {
+    overflow: hidden;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    padding-top: 45%;
+}
+
+.fullscreen-bg__video iframe {
+    filter: blur(3px);
+    position: absolute;
+    height: 300%;
+    top: -100%;
+    left: 0;
+    width: 100%;
+    z-index: -999;
+}
+
+.main_overlay {
+    background: rgba(0,0,0,0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+}
+
+.header_main_title {
+    font-family: 'Denistina';
+    font-size: 32pt;
+    text-indent: 64px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.header_main_title_author {
+    font-size: 28pt;
+    text-align: right;
+}
+
+.navigation_header {
+    background-color: #0E0B01;
+}
+
+.cat_container_spacing {
+    margin-top: 140px;
+}
+
+.cat_card {
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+
+.cat_img {
+    width: 100%;
+    height: 100%;
+    margin-top: -90px;
+    background-size: cover;
+    background-position: center center;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+}
+
+.cat_card:hover .cat_img {
+    -ms-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.cat_img_01 {
+    background-image: url('../img/cat_001.png');
+}
+
+.cat_img_02 {
+    background-image: url('../img/cat_02.png');
+}
+
+.cat_img_03 {
+    background-image: url('../img/cat_03.png');
+}
+
+.cat_img_04 {
+    background-image: url('../img/cat_04.png');
+}
+
+.cat_name {
+    z-index: 2;
+    position: relative;
+    top: 300px;
+}
+
+.cat_name h4 {
+    color: #FFF9EC;
+    text-decoration: none;
+    padding: 20px 0 14px 40px;
+    background-color: rgba(14, 11, 1, 0.8);
+    border-bottom: 12px solid #ffc107;
+}
+
+.main_text_discription {
+    text-indent: 32px;
+    margin: 10px;
+}
